@@ -1,7 +1,8 @@
 # Traffic Light System
 
  <img width="468" alt="image" src="https://github.com/areuie/TrafficlightModel/assets/63759859/558d116c-acc8-4760-a006-3dc33cbc8ed7">
-![image](https://github.com/areuie/TrafficlightModel/assets/63759859/db87c20e-2390-465a-983a-0309adbd3a39)
+![PXL_20220623_185940983](https://github.com/areuie/TrafficlightModel/assets/63759859/62537edc-4a6a-46f3-a743-feb55d9aa9d7)
+
 
 ## Introduction
 This project aims to create a functioning traffic light system with the Arduino circuit.  Its core components include 3 traffic lights at a T-intersection, a pedestrian light, a parking gate, and a street light. The system has a number of decorations: a parking lot, a house, roads, benches, etc. A team of three, Olivia Chan, Alisa Wu, and Leo Farb created this traffic light system to simulate working on a computer engineering project and to learn how to implement significant engineering skills, such as circuitry design, coding, computer-aided design, and model construction. A circuit simulation software called TinkerCAD was used to model the physical circuit system. A 3D design software, SketchUp, was used to design the layout of the system. 
