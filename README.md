@@ -1,7 +1,8 @@
 # Traffic Light System
 
  <img width="468" alt="image" src="https://github.com/areuie/TrafficlightModel/assets/63759859/558d116c-acc8-4760-a006-3dc33cbc8ed7">
-![PXL_20220623_185940983](https://github.com/areuie/TrafficlightModel/assets/63759859/62537edc-4a6a-46f3-a743-feb55d9aa9d7)
+
+![PXL_20220623_185940983](https://github.com/areuie/TrafficlightModel/assets/63759859/b2691546-a425-4e45-b326-2335aefba3fc)
 
 
 ## Introduction
