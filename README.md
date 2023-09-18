@@ -1,6 +1,4 @@
-# Traffic Light System Report
-Olivia Chan, Alisa Wu, Leo Farb
-June 15, 2022
+# Traffic Light System
 
  <img width="468" alt="image" src="https://github.com/areuie/TrafficlightModel/assets/63759859/558d116c-acc8-4760-a006-3dc33cbc8ed7">
 
